@@ -19,3 +19,5 @@ the "Deliver" stage of your Pipeline.
 Estudiante: Sheyla Dayanna Arreaga Valle.
 
 Prueba de push para validar el flujo GitHub -> Ngrok -> Jenkins, con empaquetado Maven, pruebas JUnit y análisis en SonarQube.
+
+El job incluye notificaciones de inicio y resultado a Slack. El webhook está configurado para eventos push en formato JSON.
