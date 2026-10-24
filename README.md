@@ -13,3 +13,9 @@ The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
+
+## Laboratorio de integración continua
+
+Estudiante: Sheyla Dayanna Arreaga Valle.
+
+Prueba de push para validar el flujo GitHub -> Ngrok -> Jenkins, con empaquetado Maven, pruebas JUnit y análisis en SonarQube.
